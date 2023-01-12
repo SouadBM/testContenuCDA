@@ -22,6 +22,7 @@
       13/07/2021 : unité "10*6/mm3" remplacé par 10*12/L comme demandé dans JDV Circuit de la biologie pour code="789-8" 
       13/07/2021 : unité "10*6/mm3" remplacé par 10*12/L comme demandé dans JDV Circuit de la biologie pour code="6690-2" 
       05/04/2022 : Migration des terminologies et JDV en SNOMED CT
+      test 1 
       **********************************************************************************************************
    -->
   <realmCode code="FR" />
