@@ -19,7 +19,7 @@
     13/07/2021 : Correction unité "ml" par "mL"
     29/04/2022 : Migration des terminologies et JDVs en SNOMED CT
 test
-    test 2
+    test 3
 	**********************************************************************************************************
 -->
 <ClinicalDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
