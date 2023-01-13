@@ -18,8 +18,6 @@
     21/12/2020 : Création		
     13/07/2021 : Correction unité "ml" par "mL"
     29/04/2022 : Migration des terminologies et JDVs en SNOMED CT
-test
-    test 2
 	**********************************************************************************************************
 -->
 <ClinicalDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -44,7 +42,7 @@ test
   <code code="77436-4" displayName="CR d'anesthésie" codeSystem="2.16.840.1.113883.6.1"
     codeSystemName="LOINC"/>
   <!-- Titre du document -->
-  <title>Compte rendu d'anesthésie</title>
+  <title>CR d'anesthésie</title>
   <!-- Date de création du document -->
   <effectiveTime value="20200319111700+0100"/>
   <!-- Niveau de confidentialité du document -->
