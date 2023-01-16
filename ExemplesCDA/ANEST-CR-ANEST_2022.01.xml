@@ -10,7 +10,7 @@
 <?oxygen SCHSchema="../schematrons/CI-SIS_ANEST-CR-ANEST_2022.01.sch"?>
 <!-- 
 	**********************************************************************************************************
-	Système : ANS
+	Système : Agence numérique de santé
 	Document : Compte-rendu d'anesthésie (ANEST-CR-ANEST_2022.01)	
 	**********************************************************************************************************
 	format HL7 - CDA Release 2 - selon schéma XML (CDA.xsd) du standard ANSI/HL7 CDA, R2-2005 4/21/2005
