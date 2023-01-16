@@ -23,7 +23,6 @@
       21/07/2021 : unité "Cig/j" remplacé par {pack}/d pour respecter MC-CDA      
       21/07/2021 : unité "verre/j" remplacé par {drink}/d pour respecter MC-CDA
       22/09/2021 : unité "/j" remplacé par "/d" pour le score d'epworth
-      05/04/2022 : Migration des terminologies et JDV en SNOMED CT
       **********************************************************************************************************
    -->
   <realmCode code="FR" />
